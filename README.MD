@@ -25,5 +25,11 @@ To verify that the AHR service and `ahr_stamp` utility are installed and running
 
 This command will check if the `ahr_stamp` executable is installed and if the AHR service is running and set to start on boot.
 
+# asof="20230805"
+# added simAHR.sh
+# https://github.com/ahrink/stamp
+# Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
+# https://github.com/ahrink/Praevisio-Installer
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
